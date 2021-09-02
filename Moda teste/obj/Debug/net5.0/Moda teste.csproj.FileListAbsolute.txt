@@ -1,0 +1,32 @@
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\bin\Debug\net5.0\Moda teste.exe
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\bin\Debug\net5.0\Moda teste.deps.json
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\bin\Debug\net5.0\Moda teste.runtimeconfig.json
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\bin\Debug\net5.0\Moda teste.runtimeconfig.dev.json
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\bin\Debug\net5.0\Moda teste.dll
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\bin\Debug\net5.0\ref\Moda teste.dll
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\bin\Debug\net5.0\Moda teste.pdb
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\obj\Debug\net5.0\Moda teste.csproj.AssemblyReference.cache
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\obj\Debug\net5.0\Moda teste.GeneratedMSBuildEditorConfig.editorconfig
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\obj\Debug\net5.0\Moda teste.AssemblyInfoInputs.cache
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\obj\Debug\net5.0\Moda teste.AssemblyInfo.cs
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\obj\Debug\net5.0\Moda teste.csproj.CoreCompileInputs.cache
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\obj\Debug\net5.0\Moda teste.dll
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\obj\Debug\net5.0\ref\Moda teste.dll
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\obj\Debug\net5.0\Moda teste.pdb
+F:\New life\Processo CMTecnologi\Moda teste\Moda teste\obj\Debug\net5.0\Moda teste.genruntimeconfig.cache
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\bin\Debug\net5.0\Moda teste.exe
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\bin\Debug\net5.0\Moda teste.deps.json
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\bin\Debug\net5.0\Moda teste.runtimeconfig.json
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\bin\Debug\net5.0\Moda teste.runtimeconfig.dev.json
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\bin\Debug\net5.0\Moda teste.dll
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\bin\Debug\net5.0\ref\Moda teste.dll
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\bin\Debug\net5.0\Moda teste.pdb
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\obj\Debug\net5.0\Moda teste.csproj.AssemblyReference.cache
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\obj\Debug\net5.0\Moda teste.GeneratedMSBuildEditorConfig.editorconfig
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\obj\Debug\net5.0\Moda teste.AssemblyInfoInputs.cache
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\obj\Debug\net5.0\Moda teste.AssemblyInfo.cs
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\obj\Debug\net5.0\Moda teste.csproj.CoreCompileInputs.cache
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\obj\Debug\net5.0\Moda teste.dll
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\obj\Debug\net5.0\ref\Moda teste.dll
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\obj\Debug\net5.0\Moda teste.pdb
+F:\New life\Processo CMTecnologi\6-Moda\Moda teste\obj\Debug\net5.0\Moda teste.genruntimeconfig.cache
